@@ -50,6 +50,7 @@ class MainActivity : AppCompatActivity() {
             else -> 0
         }
         res.text = result.toString()
+
     }
     
     // Light/Dark mode
